@@ -2,3 +2,4 @@ dtb
 kernel
 ramdisk.cpio
 *.img
+*~
