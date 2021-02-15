@@ -13,7 +13,7 @@ else
     exit 1
 fi
 
-#clen
+#clean
 echo "--- Cleaning..."
 magiskboot cleanup
 
