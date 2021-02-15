@@ -1,0 +1,4 @@
+# Auto boot android while charging
+on charger
+    setprop ro.bootmode "normal"
+    setprop sys.powerctl "reboot"
