@@ -1,5 +1,8 @@
-# android-autoboot
-### Auto boot android devices when charging
+android-autoboot
+================
+Auto boot android devices when charging
 
-## Usage  
-   ./autoboot-patcher.sh <magisk_patched_boot.img>
+Usage  
+-----
+rename the .rc file you want to add to boot image to init.custom.rc
+`./autoboot-patcher.sh <magisk_patched_boot.img>`
